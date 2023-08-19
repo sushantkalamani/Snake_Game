@@ -1,1 +1,1 @@
-# Snake_game_mini_proj
+I have used 'turtle' library to create a playable GUI of the users.
